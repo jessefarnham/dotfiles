@@ -6,7 +6,6 @@ set softtabstop=4
 set expandtab
 
 set number
-set cursorline
 
 syntax enable
 
