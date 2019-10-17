@@ -5,6 +5,8 @@ set tabstop=4
 set softtabstop=4
 set expandtab
 
+set scs  "Smartcase
+
 set number
 
 syntax enable
