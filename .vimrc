@@ -14,6 +14,9 @@ syntax enable
 
 filetype indent on
 
+"Remove trailing whitespace on save
+autocmd BufWritePre * :%s/\s\+$//e
+
 set wildmenu
 
 set showmatch
