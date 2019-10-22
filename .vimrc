@@ -6,6 +6,8 @@ set softtabstop=4
 set shiftwidth=4
 set expandtab
 
+set mouse=a
+
 set ignorecase  "Apparently needed for smartcase
 set scs  "Smartcase
 
