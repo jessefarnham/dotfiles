@@ -17,6 +17,9 @@ syntax enable
 
 filetype indent on
 
+"Turn off autoindent for tex
+autocmd FileType tex setlocal indentexpr=
+
 "Remove trailing whitespace on save
 autocmd BufWritePre * :%s/\s\+$//e
 
