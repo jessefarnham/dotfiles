@@ -23,6 +23,8 @@ autocmd FileType tex setlocal indentexpr=
 "Remove trailing whitespace on save
 autocmd BufWritePre * :%s/\s\+$//e
 
+autocmd FileType make set noexpandtab shiftwidth=8 softtabstop=8
+
 set wildmenu
 
 set showmatch
