@@ -17,6 +17,8 @@ syntax enable
 
 filetype indent on
 
+autocmd GUIEnter * set vb t_vb=
+
 "Turn off autoindent for tex
 autocmd FileType tex setlocal indentexpr=
 
