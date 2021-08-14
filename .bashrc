@@ -117,8 +117,6 @@ if ! shopt -oq posix; then
 fi
 
 
-
-
 # MY SETTINGS
 
 #xmodmap $HOME/lib/norman/xmodmap/xmodmap.norman
