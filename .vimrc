@@ -38,3 +38,4 @@ set foldnestmax=10
 set foldmethod=indent
 
 set colorcolumn=80
+colorscheme darkblue
