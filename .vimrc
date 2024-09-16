@@ -39,3 +39,5 @@ set foldmethod=indent
 
 set colorcolumn=80
 colorscheme darkblue
+
+set mouse=a
